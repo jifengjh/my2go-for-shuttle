@@ -14,7 +14,7 @@ base64 = "0.22.1"
 regex = "1.10.4"
 
 [[bin]]
-name = "shuttle-app"
+name = "rtx9090"
 path = "src/main.rs"
 
 [profile.release]
